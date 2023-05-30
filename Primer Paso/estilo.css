@@ -170,6 +170,7 @@ background-color: rgb(6, 37, 73);
 .greeting{
 
   display: flex;
+  flex-wrap: wrap;
   text-align: center;
   flex-direction: column;
   justify-content: center;
