@@ -169,6 +169,16 @@ background-color: rgb(6, 37, 73);
 
 .greeting{
 
+  display: flex;
   text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin: 5px;
+
+
 }
     
